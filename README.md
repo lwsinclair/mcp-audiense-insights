@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/audienseco-mcp-audiense-insights-badge.png)](https://mseep.ai/app/audienseco-mcp-audiense-insights)
+
 ## ⚠️ **Deprecated**
 
 ## 🚫 This repository is no longer maintained.
